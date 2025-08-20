@@ -66,3 +66,21 @@ Goal:Predict the number of bikes rented based on time, weather, and seasonal dat
 - OpenCV Haar Cascade / DNN face detector  
 - Face bounding box visualization  
 - Optional: Integration with face recognition or emotion models  
+
+### 7. ✋ Hand Gesture Recognition
+
+**Goal**: Classify hand gestures from images to enable human-computer interaction.
+Techniques:
+-Image preprocessing (grayscale conversion, resizing, normalization)
+-CNN-based deep learning model (TensorFlow/Keras)
+-Data augmentation for improving generalization
+-Model evaluation (accuracy, confusion matrix)
+
+### 8. ❤️ Heart Disease Prediction
+
+**Goal**: Predict the likelihood of heart disease based on patient health records.
+Techniques:
+Data Cleaning and Exploratory Data Analysis (EDA)
+Feature Engineering (handling categorical/continuous variables)
+Classification Models: Logistic Regression, Random Forest, SVM
+Model Evaluation (Accuracy, Precision, Recall, F1-score)
