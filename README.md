@@ -7,7 +7,7 @@ Welcome to my Machine Learning project portfolio! This repository showcases seve
 ## 📁 Projects Included
 
 ### 1. 🚲 Bike Sharing Demand Prediction
-*Goal:*Predict the number of bikes rented based on time, weather, and seasonal data.  
+Goal:Predict the number of bikes rented based on time, weather, and seasonal data.  
 **Techniques:**  
 - Data Cleaning and EDA  
 - Feature Engineering (datetime, weather categorization)  
