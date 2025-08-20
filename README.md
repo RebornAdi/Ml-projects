@@ -76,6 +76,8 @@ Techniques:
 -Data augmentation for improving generalization
 -Model evaluation (accuracy, confusion matrix)
 
+---
+
 ### 8. ❤️ Heart Disease Prediction
 
 **Goal**: Predict the likelihood of heart disease based on patient health records.
@@ -84,3 +86,5 @@ Data Cleaning and Exploratory Data Analysis (EDA)
 Feature Engineering (handling categorical/continuous variables)
 Classification Models: Logistic Regression, Random Forest, SVM
 Model Evaluation (Accuracy, Precision, Recall, F1-score)
+
+---
